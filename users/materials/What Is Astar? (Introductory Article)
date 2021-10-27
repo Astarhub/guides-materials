@@ -1,14 +1,14 @@
 ---
-title: A Python developer's introduction to Ethereum, part 1
-description: An introduction to Ethereum development, especially useful for those with knowledge of the Python programming language
-author: Marc Garreau
+title: What Is Astar? (Introductory Article)
+description: An introduction in Astar and Shiden for beginners
+author: Igor Poroshin
 lang: en
 sidebar: true
-tags: ["getting started", "python", "blockchain", "web3.py"]
+tags: ["Astar", "Shiden"]
 skill: beginner
-published: 2020-09-08
-source: Snake charmers
-sourceUrl: https://snakecharmers.ethereum.org/a-developers-guide-to-ethereum-pt-1/
+published: 2021-10-27
+source: 
+sourceUrl: 
 ---
 
 Astar is a multi-chain platform for smart contracts on Polkadot. The protocol aims to realize the multi-chain vision of the future and become a sort of dApps-hub for Layer1 blockchains set (Ethereum, Cosmos, Binance Smart Chain, Solana, etc.). It connects blockchains into one network with the help of bridges.
