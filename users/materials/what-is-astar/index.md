@@ -54,7 +54,7 @@ The entire Polkadot ecosystem aims to solve the problems such as scalability and
 
 **dApp Staking**
 
-One of the challenges for developers of decentralized applications is looking for funding. In contrast to regular companies, these teams do not have a constant cash flow from the services or goods sales, so the development financing problem is quite acute. dApp Staking is a sort of basic income for smart-contract developers. Any application on the platform can receive ASTA tokens depending on usage indices (number of users, etc.) and on-chain voting results.
+One of the challenges for developers of decentralized applications is looking for funding. In contrast to regular companies, these teams do not have a constant cash flow from the services or goods sales, so the development financing problem is quite acute. dApp Staking is a sort of basic income for smart-contract developers. Any application on the platform can receive ASTR tokens depending on usage indices (number of users, etc.) and on-chain voting results.
 
 This system allows you to focus solely on the quality of the final product and not to think about funding sources (at least in the initial stages of application development).
 
@@ -92,7 +92,7 @@ Also, it shouldn&#39;t forget about the test nature of the network, which theore
 
 # Token
 
-ASTA (Astar Native Token) and SDN (Shiden Native Token) have the same use cases and parameters. The initial total token supply is 70,000,000 tokens, and the annual inflation is 10%.
+ASTR (Astar Native Token) and SDN (Shiden Native Token) have the same use cases and parameters. The initial total token supply is 70,000,000 tokens, and the annual inflation is 10%.
 
 ![](./Token.png)
 
@@ -106,13 +106,13 @@ Tokens use for:
 
 — participation in on-chain voting;
 
-— developers need to deposit ASTA / SDN in the corresponding smart contract in the first-layer network to have the ability to launch an application on the second-layer network.
+— developers need to deposit ASTR / SDN in the corresponding smart contract in the first-layer network to have the ability to launch an application on the second-layer network.
 
 # Initial Tokens Distribution
 
 ![](./Distribution.png)
 
-Astar developers follow the fair launch principle, so you can only get ASTA/SDN before listing on exchanges via lockdrop(1), as well as crowdloan(2) on Polkadot and Kusama. The team does not conduct private sales, ICOs, IEOs, or IDOs.
+Astar developers follow the fair launch principle, so you can only get ASTR/SDN before listing on exchanges via lockdrop, as well as crowdloan on Polkadot and Kusama. The team does not conduct private sales, ICOs, IEOs, or IDOs.
 
 Both lockdrop took place in 2020. The first batch of auctions on Kusama ended in July 2021 (Shiden was the third winner of the first batch).
 
