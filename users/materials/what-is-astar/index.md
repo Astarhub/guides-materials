@@ -4,12 +4,13 @@ description: An introduction in Astar and Shiden for beginners
 author: Igor Poroshin
 lang: en
 sidebar: true
-tags: ["Astar", "Shiden"]
+tags: ["Astar", "Shiden", "Article"]
 skill: beginner
 published: 2021-10-27
 source: 
 sourceUrl: 
 ---
+![](./Astar.jpeg)
 
 Astar is a multi-chain platform for smart contracts on Polkadot. The protocol aims to realize the multi-chain vision of the future and become a sort of dApps-hub for Layer1 blockchains set (Ethereum, Cosmos, Binance Smart Chain, Solana, etc.). It connects blockchains into one network with the help of bridges.
 
@@ -18,6 +19,8 @@ Astar is perfect for DeFi and NFT applications implementation because it allows 
 The protocol has distinctive features such as EVM (Ethereum Virtual Machine) and WebAssembly support and Layer2 scalability solutions such as ZK Rollups and Optimistic Rollups.
 
 # Why do we need Astar
+
+![](./why_do_we_need_Astar.png)
 
 Astar is built on the Substrate framework and is a Polkadot parachain. However, Podakot Relay Chain design does not offer facilities for smart contracts development and most other functions. Its main task is to provide the so-called Shared Security for the parachains connected to it.
 
@@ -30,6 +33,8 @@ _(Essentially, Podakot is a layer zero (L0) blockchain, while Astar and other pa
 Since Astar is a smart-contract platform, we consider this issue from both users&#39; and developers&#39; sid
 
 Users will receive solutions to the scalability and interoperability problems.
+
+![](./problems_users.png)
 
 **Scalability**
 
@@ -44,6 +49,8 @@ Astar will allow moving value from one L1 blockchain to another using bridges, f
 With the launch of a full-featured network, that problem will solve.
 
 The entire Polkadot ecosystem aims to solve the problems such as scalability and interoperability; Polkadot itself is a solution to these problems. Therefore, it is somewhat more interesting what additional possibilities Astar provide for developers. That is where the protocol features reveal.
+
+![](./problems_devs.png)
 
 **dApp Staking**
 
@@ -71,6 +78,8 @@ Astar will connect the main L1 networks such as Ethereum, Cosmos, Binance Smart 
 
 # What Is Shiden
 
+![](./Shiden.jpeg)
+
 Shiden is the Astar canary network, a parachain of the Kusama Network (Kusama, in turn, is the Polkadot canary network).
 
 What does the canary network mean, and why is it needed? It is a testing ground for experimentation, research, and development. Teams can test their solutions in realistic economic conditions first on Shiden, identify and fix bugs, and then transfer a fully working product to Astar.
@@ -84,6 +93,8 @@ Also, it shouldn&#39;t forget about the test nature of the network, which theore
 # Token
 
 ASTA (Astar Native Token) and SDN (Shiden Native Token) have the same use cases and parameters. The initial total token supply is 70,000,000 tokens, and the annual inflation is 10%.
+
+![](./Token.png)
 
 Tokens use for:
 
@@ -99,12 +110,16 @@ Tokens use for:
 
 # Initial Tokens Distribution
 
+![](./Distribution.png)
+
 Astar developers follow the fair launch principle, so you can only get ASTA/SDN before listing on exchanges via lockdrop(1), as well as crowdloan(2) on Polkadot and Kusama. The team does not conduct private sales, ICOs, IEOs, or IDOs.
 
 Both lockdrop took place in 2020. The first batch of auctions on Kusama ended in July 2021 (Shiden was the third winner of the first batch).
 
-The timing of the first batch of auctions on Polkadot is unknown yet (as of this writing, September 2021).
+Polkadot auctions will beggin on November 11,  2021.
 
 # Rebranding
+
+![](./Rebranding.png)
 
 Initially, the project worked under the name Plasm Network. However, it decided to change the name to Astar because of the almost complete accord with the L2 scalability solution for Ethereum (Plasma) and avoid confusion.
