@@ -18,7 +18,7 @@ Astar is perfect for DeFi and NFT applications implementation because it allows 
 
 The protocol has distinctive features such as EVM (Ethereum Virtual Machine) and WebAssembly support and Layer2 scalability solutions such as ZK Rollups and Optimistic Rollups.
 
-# Why do we need Astar
+## Why do we need Astar
 
 ![](./why_do_we_need_Astar.png)
 
@@ -28,7 +28,7 @@ Therefore, it needs to supplement the development of smart contracts with the he
 
 _(Essentially, Podakot is a layer zero (L0) blockchain, while Astar and other parachains are specialized layer one (L1) protocols expanding potentialities of the entire ecosystem. This architecture permits to develop of particularized networks that focus on the qualitative solution of one problem instead of producing a multitude of identical solutions)_
 
-# What Kind of Problems Does It Solve?
+## What Kind of Problems Does It Solve?
 
 Since Astar is a smart-contract platform, we consider this issue from both users&#39; and developers&#39; sid
 
@@ -76,7 +76,7 @@ Astar is ready for ecosystem growth and offers the second layer scalability solu
 
 Astar will connect the main L1 networks such as Ethereum, Cosmos, Binance Smart Chain, Solana, Avalanche, and others through bridges. That will permit developers to build cross-chain applications and interact with other blockchains almost seamlessly.
 
-# What Is Shiden
+## What Is Shiden
 
 ![](./Shiden.jpeg)
 
@@ -90,7 +90,7 @@ It is necessary to understand that this is not a test network. Unlike test netwo
 
 Also, it shouldn&#39;t forget about the test nature of the network, which theoretically increases the probability of founding bugs.
 
-# Token
+## Token
 
 ASTR (Astar Native Token) and SDN (Shiden Native Token) have the same use cases and parameters. The initial total token supply is 70,000,000 tokens, and the annual inflation is 10%.
 
@@ -108,7 +108,7 @@ Tokens use for:
 
 — developers need to deposit ASTR / SDN in the corresponding smart contract in the first-layer network to have the ability to launch an application on the second-layer network.
 
-# Initial Tokens Distribution
+## Initial Tokens Distribution
 
 ![](./Distribution.png)
 
@@ -118,7 +118,7 @@ Both lockdrop took place in 2020. The first batch of auctions on Kusama ended in
 
 Polkadot auctions will beggin on November 11,  2021.
 
-# Rebranding
+## Rebranding
 
 ![](./Rebranding.png)
 
