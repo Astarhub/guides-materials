@@ -92,7 +92,7 @@ Also, it shouldn&#39;t forget about the test nature of the network, which theore
 
 ## Token
 
-ASTR (Astar Native Token) and SDN (Shiden Native Token) have the same use cases and parameters. The initial total token supply is 70,000,000 tokens, and the annual inflation is 10%.
+ASTR (Astar Native Token) and SDN (Shiden Native Token) have the same use cases. The initial total token supply is 7,000,000,000 ASTR tokens for the Astar Network and 70,000,000 SDN tokens for the Shiden Network. The annual inflation is 10%.
 
 ![](./Token.png)
 
