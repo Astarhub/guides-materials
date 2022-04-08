@@ -52,8 +52,7 @@ Symbol - SBY
 
 Block explorer - https://shibuya.subscan.io
 
+![](./setup.gif)
+
 Once you have installed MetaMask and set up your wallet, you can use the dApps on Astar or Shiden EVM chains.
 
-If you need more details, you can visit the documentation of Astar Network.
-
-![](./setup.gif)
