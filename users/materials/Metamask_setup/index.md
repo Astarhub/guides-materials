@@ -56,7 +56,7 @@ Block explorer - https://shibuya.subscan.io
 
 ## Second option: Setup Metamask using dApp 
 
-Another option is to go to one of the Astar dApps, e.g. Arthswap and by connecting your Metamask, the dApp will suggest you to add the Astar network. 
+Another option is to go to one of the Astar dApps, e.g. Arthswap (https://app.arthswap.org/) and by connecting your Metamask, the dApp will suggest you to add the Astar network. 
 
 ![](./dApp.gif)
 
