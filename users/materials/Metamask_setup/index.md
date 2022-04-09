@@ -54,5 +54,14 @@ Block explorer - https://shibuya.subscan.io
 
 ![](./setup.gif)
 
+## Second option: Setup Metamask using dApp 
+
+Another option is to go to one of the Astar dApps, e.g. Arthswap and by connecting your Metamask, the dApp will suggest you to add the Astar network. 
+
+![](./dApp.gif)
+
 Once you have installed MetaMask and set up your wallet, you can use the dApps on Astar or Shiden EVM chains.
+
+
+
 
