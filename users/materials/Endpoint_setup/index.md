@@ -49,7 +49,6 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 
 — Save and close the settings
 
-<br/> </br>
 ![](./Metamask.png)
 <br/> </br>
 
@@ -64,7 +63,7 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 — Under "Custom Network", enter your WSS
 
 — Log in and close the panel
-<br/> </br>
+
 ![](./AstarPortal.png)
 <br/> </br>
 
@@ -78,7 +77,6 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 
 — Switch network and close the panel
 
-<br/> </br>
 ![](./Polkadot.js.png)
 <br/> </br>
 
