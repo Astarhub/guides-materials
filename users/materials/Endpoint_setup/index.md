@@ -19,11 +19,11 @@ However, you can create and use your own endpoints for free with BwareLabs and n
 
 ## Set up your endpoints
 
-Go to [blastapi.io](http://blastapi.io) and connect your EVM wallet.
-Add a new project, choose a name and select the "Production" environment
-Go to "Available Endpoints" and activate "Astar Mainnet"
-In "Active Endpoints", click on "Astar Mainnet"
-You will then find an RPC Endpoint for EVM and a WSS Endpoint for substrate
+— Go to [blastapi.io](http://blastapi.io) and connect your EVM wallet.
+— Add a new project, choose a name and select the "Production" environment
+— Go to "Available Endpoints" and activate "Astar Mainnet"
+— In "Active Endpoints", click on "Astar Mainnet"
+— You will then find an RPC Endpoint for EVM and a WSS Endpoint for substrate
 
 ![](./Blastapi.gif)
 <br/> </br>
