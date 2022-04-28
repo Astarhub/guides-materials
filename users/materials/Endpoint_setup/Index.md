@@ -1,5 +1,5 @@
 ---
-title: Setup your own RPC and WSS Endpoints with BwareLabs
+title: Set up your own RPC and WSS Endpoints with BwareLabs
 description: Custom RPC and WSS Endpoints for Astar Network
 author: Gunit
 lang: en
