@@ -4,7 +4,7 @@ description: Custom RPC and WSS Endpoints for Astar Network
 author: Gunit
 lang: en
 sidebar: true
-tags: ["Astar", "Metamask RPC", "Endpoints", "Network", "WSS", "Metamask","Article"]
+tags: ["Astar", "Metamask RPC", "Endpoints", "BwareLabs", "Network", "WSS", "Metamask","Article"]
 skill: beginner
 published: 2022-04-29
 source: 
