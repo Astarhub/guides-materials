@@ -34,8 +34,6 @@ However, you can create and use your own endpoints for free with BwareLabs and n
 
 ### RPC & WSS Endpoints 
 ![](./Blastapi.png)
-<br/> </br>
-
 
 Congratulations, you have just created your own Endpoints in less than 5 minutes. Now I'll show you how to use them on Metamask and in substrate environments (Astar portal and polkadot.js)
 
@@ -78,6 +76,5 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 — Switch network and close the panel
 
 ![](./Polkadot.js.png)
-<br/> </br>
 
 Once you have configured and modified your endpoints, you will not have any problems connecting to Astar network.
