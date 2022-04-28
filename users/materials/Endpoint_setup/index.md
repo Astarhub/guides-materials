@@ -47,11 +47,15 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 
 ## Astar Portal
 
-- Copy the WSS Endpoint from [blastapi.io](http://blastapi.io)
-- Go to the [Astar portal](https://portal.astar.network/#/assets)
-- In the top right corner, click on "Network", a panel will open
-- Under "Custom Network", enter your WSS
-- Log in and close the panel
+— Copy the WSS Endpoint from [blastapi.io](http://blastapi.io)
+
+— Go to the [Astar portal](https://portal.astar.network/#/assets)
+
+— In the top right corner, click on "Network", a panel will open
+
+— Under "Custom Network", enter your WSS
+
+— Log in and close the panel
 <br/> </br>
 ![](./AstarPortal.png)
 <br/> </br>
