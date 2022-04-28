@@ -13,9 +13,9 @@ sourceUrl:
 <br/> </br>
 ![](./Banner.png)
 <br/> </br>
-If you are having trouble connecting to the Astar network on the portal or on Metamask, it is probably because the public nodes are overloaded with demand. The Astar team is constantly working on setting up new nodes and reducing the connection load.
+If you are having trouble connecting to Astar network on the Astar's portal or on Metamask, it is probably because the public nodes are overloaded with demand. The Astar team is constantly working on setting up new nodes and reducing the connection load.
 
-However, you can create and use your own endpoints for free through BwareLabs and not have any connection problems. In this tutorial we show you how to create your endpoints and use them on the Astar portal, polkadot.js and Metamask.
+However, you can create and use your own endpoints for free with BwareLabs and not have any connection problems. In this tutorial we show you how to create your endpoints and use them on the Astar's portal, polkadot.js and Metamask.
 
 ## Set up your endpoints
 
