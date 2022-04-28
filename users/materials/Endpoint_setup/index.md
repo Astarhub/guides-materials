@@ -20,9 +20,13 @@ However, you can create and use your own endpoints for free with BwareLabs and n
 ## Set up your endpoints
 
 — Go to [blastapi.io](http://blastapi.io) and connect your EVM wallet.
+
 — Add a new project, choose a name and select the "Production" environment
+
 — Go to "Available Endpoints" and activate "Astar Mainnet"
+
 — In "Active Endpoints", click on "Astar Mainnet"
+
 — You will then find an RPC Endpoint for EVM and a WSS Endpoint for substrate
 
 ![](./Blastapi.gif)
@@ -37,10 +41,14 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 
 ## Metamask
 
-- Copy the RPC Endpoint from [blastapi.io](http://blastapi.io)
-- Go to the Astar network settings on Metamask
-- Replace your old RPC with the new one
-- Save and close the settings
+— Copy the RPC Endpoint from [blastapi.io](http://blastapi.io)
+
+— Go to the Astar network settings on Metamask
+
+— Replace your old RPC with the new one
+
+— Save and close the settings
+
 <br/> </br>
 ![](./Metamask.png)
 <br/> </br>
@@ -62,10 +70,14 @@ Congratulations, you have just created your own Endpoints in less than 5 minutes
 
 ## Polkadot.js
 
-- Copy the WSS Endpoint from [blastapi.io](http://blastapi.io)
-- Go to the left panel of the [Polkadot.js application](https://polkadot.js.org/apps/#/explorer)
-- At the bottom, under "Development", select "Custom" and enter your WSS
-- Switch network and close the panel
+— Copy the WSS Endpoint from [blastapi.io](http://blastapi.io)
+
+— Go to the left panel of the [Polkadot.js application](https://polkadot.js.org/apps/#/explorer)
+
+— At the bottom, under "Development", select "Custom" and enter your WSS
+
+— Switch network and close the panel
+
 <br/> </br>
 ![](./Polkadot.js.png)
 <br/> </br>
