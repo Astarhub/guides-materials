@@ -20,38 +20,51 @@ To do so, you need to connect your Metamask wallet to Astar Network by adding th
 
 Network name - Astar Network
 
-EVM RPC - https://astar.api.onfinality.io/public
+EVM RPC - 
+
+          https://astar.api.onfinality.io/public
+
           https://evm.astar.network
 
 ChainID - 592
 
 Symbol - ASTR
 
-Block explorer - https://blockscout.com/astar/
+Block explorer - 
+
+          https://blockscout.com/astar/
 
 ## For Shiden: 
 
 Network name - Shiden Network
 
-EVM RPC - https://evm.shiden.astar.network
+EVM RPC - 
+
+          https://evm.shiden.astar.network
 
 ChainID - 336
 
 Symbol - SDN
 
-Block explorer - https://blockscout.com/shiden/
+Block explorer - 
+
+          https://blockscout.com/shiden/
 
 ## For Shibuya: 
 
 Network name - Shibuya Network
 
-EVM RPC -  https://rpc.shibuya.astar.network:8545
+EVM RPC -  
+
+          https://rpc.shibuya.astar.network:8545
 
 ChainID - 81
 
 Symbol - SBY
 
-Block explorer - https://shibuya.subscan.io
+Block explorer - 
+
+          https://shibuya.subscan.io
 
 ![](./setup.gif)
 
