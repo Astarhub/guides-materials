@@ -20,7 +20,8 @@ To do so, you need to connect your Metamask wallet to Astar Network by adding th
 
 Network name - Astar Network
 
-EVM RPC - https://rpc.astar.network:8545
+EVM RPC - https://astar.api.onfinality.io/public
+          https://evm.astar.network
 
 ChainID - 592
 
